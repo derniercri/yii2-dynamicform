@@ -1,0 +1,15 @@
+{
+    "name": "derniercri/yii2-dynamicform",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.1",
+        "symfony/dom-crawler": "^6.2.5",
+        "symfony/css-selector": "^6.2.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "DernierCri\\Yii2Dynamicform\\": "src/"
+        }
+    }
+}
